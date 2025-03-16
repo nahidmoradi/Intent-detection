@@ -22,6 +22,9 @@ documents = [
 ]
 3.	Chat System and Conversation Management The chat model uses OpenAI (or an alternative model like Ollama) to generate responses.
 ChatSystem class for managing conversation: • The GPT-4 model is used to generate responses, and the temperature is set to 0.7 to make the responses more creative. • This function uses the chat model to generate responses.
-Summary: • Intent Detection Model: Predicts the user's query intent. • Vector Database: Used for storing and retrieving textual information. • Chat System: Generates intelligent responses.
+Summary:
+• Intent Detection Model: Predicts the user's query intent.
+• Vector Database: Used for storing and retrieving textual information.
+• Chat System: Generates intelligent responses.
 This chatbot can be used in customer support systems, automated response systems, and knowledge management software.
 
